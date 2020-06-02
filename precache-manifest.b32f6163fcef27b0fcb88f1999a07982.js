@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "3f9021fc7ae20a763b7e",
-    "url": "/test-react/static/css/main.e987feab.chunk.css"
+    "revision": "04a824832f65e37cc3b2",
+    "url": "/test-react/static/css/main.3e09f2da.chunk.css"
   },
   {
-    "revision": "3f9021fc7ae20a763b7e",
-    "url": "/test-react/static/js/main.7e0943d7.chunk.js"
+    "revision": "04a824832f65e37cc3b2",
+    "url": "/test-react/static/js/main.f59aec1d.chunk.js"
   },
   {
     "revision": "31d3ffe18f2cb45b7bd6",
     "url": "/test-react/static/js/runtime~main.bea1702e.js"
   },
   {
-    "revision": "2ad4b5eadc6d42fe6acb",
+    "revision": "7f5034b9ce00387a922f",
     "url": "/test-react/static/css/2.bd668e77.chunk.css"
   },
   {
-    "revision": "2ad4b5eadc6d42fe6acb",
-    "url": "/test-react/static/js/2.12baf93f.chunk.js"
+    "revision": "7f5034b9ce00387a922f",
+    "url": "/test-react/static/js/2.019d645e.chunk.js"
   },
   {
     "revision": "11b3aded59eb226becee579437559051",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/test-react/static/media/whatsapp.7084bfaf.png"
   },
   {
-    "revision": "7eb9646ff710d94aeae5d9a37ca3aaae",
+    "revision": "9013226860e734b3bf75b776e7e1d93c",
     "url": "/test-react/index.html"
   }
 ];
