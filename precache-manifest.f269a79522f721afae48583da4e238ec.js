@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e518f0c7744300c0dd7a",
-    "url": "/test-react/static/css/main.5d824744.chunk.css"
+    "revision": "3f9021fc7ae20a763b7e",
+    "url": "/test-react/static/css/main.e987feab.chunk.css"
   },
   {
-    "revision": "e518f0c7744300c0dd7a",
-    "url": "/test-react/static/js/main.e7aa1d62.chunk.js"
+    "revision": "3f9021fc7ae20a763b7e",
+    "url": "/test-react/static/js/main.7e0943d7.chunk.js"
   },
   {
     "revision": "31d3ffe18f2cb45b7bd6",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/test-react/static/media/whatsapp.7084bfaf.png"
   },
   {
-    "revision": "c7d158b8f3e61e9544693ed2fd21dd81",
+    "revision": "7eb9646ff710d94aeae5d9a37ca3aaae",
     "url": "/test-react/index.html"
   }
 ];
